@@ -1,56 +1,28 @@
-# Welcome to your Expo app 👋
+# Basic Lingo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A Duolingo-style app for learning programming languages from computer history, from Dartmouth BASIC to the Altair 8800.
+Every course has its own look, inspired by the computers of its era.
 
-## Get started
+## Screenshots
 
-1. Install dependencies
+<img width="1512" height="982" alt="Screenshot 2026-11-15 at 18 58 10" src="https://github.com/user-attachments/assets/e30c28ec-b927-4414-b40e-dbe3dc80364e" />
+<img width="1512" height="982" alt="Screenshot 2026-11-15 at 18 57 58" src="https://github.com/user-attachments/assets/c8ab8d50-b112-4fce-8847-f386290a14f9" />
+<img width="1512" height="982" alt="Screenshot 2026-11-15 at 18 57 47" src="https://github.com/user-attachments/assets/75a7614d-6ac1-4535-adc5-b396727ae68e" />
+<img width="375" height="808" alt="Screenshot 2026-11-15 at 18 56 17" src="https://github.com/user-attachments/assets/905bb4c4-e468-48c7-bf3a-9d20c5cd85e7" />
+<img width="370" height="801" alt="Screenshot 2026-11-15 at 18 56 05" src="https://github.com/user-attachments/assets/8f316323-a0ce-441a-912b-831b50591300" />
+<img width="384" height="803" alt="Screenshot 2026-11-15 at 18 55 45" src="https://github.com/user-attachments/assets/6d023e12-bbba-402e-8d44-d1f49e031570" />
+<img width="381" height="805" alt="Screenshot 2026-11-15 at 18 55 29" src="https://github.com/user-attachments/assets/65545d34-61df-40b3-8689-f324dd486073" />
+<img width="376" height="804" alt="Screenshot 2026-11-15 at 18 55 14" src="https://github.com/user-attachments/assets/9b2c05eb-44da-482c-a56b-e31f24eb004b" />
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## Features
+- Courses: BASIC, 6502 Assembly, FORTRAN, C, Pascal, COBOL, Altair 8800 machine code
+- Practice mode, Translation mode, Bug hunt and a Daily challenge with leaderboard
+- Achievements, streaks and stats
+- One account with synced progress on phone and computer
 
-   ```bash
-   npx expo start
-   ```
+## Platforms
+iOS · Android · Desktop (macOS / Windows)
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Tech stack
+React Native · Expo · TypeScript · Supabase · Electron<img 
